@@ -1,0 +1,6 @@
+No.;Status;Signal Name;Severity;Stage;Schedule;Team Lead
+1;No Signal;Astrid: NE shared managed;Medium;Triaged;0:33;Chase Nguyen
+2;Offline;Cosmo: prod shared ares;Huge;Triaged;0:39;Brie Furman
+3;Online;Phoenix: prod shared lyra-lists;Minor;Not Triaged;3:12;Jeremy lake
+4;Online;Sirius: NW prod shared locations;Negligible;Triaged;13:18;Angelica Howards
+5;Online;Sirius: prod independent account;Negligible;Triaged;22:06;Diane Okuma
