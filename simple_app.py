@@ -130,7 +130,6 @@ class Example(MDApp):
         """
         return zip(*sorted(enumerate(data), key=lambda l: l[1][-1]))
 
-
 Example().run()
 
 #endregion
